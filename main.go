@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bitbucket.org/credomobile/ArchitecturePOCs/jenkinsgolambda/handler"
 	"github.com/aws/aws-lambda-go/lambda"
+	"github.com/gojenkinslambdav2/handler"
 )
 
 var version string
